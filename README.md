@@ -17,4 +17,3 @@ The project contains the following Python modules:
 
 Note: Currently, there are no functions to perform calculations in quantum field theory.
 
-## Table of Contents
